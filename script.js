@@ -40,3 +40,4 @@ while (i < questions.length );
 
 
 console.log(answers);
+console.log(first);
